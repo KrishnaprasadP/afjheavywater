@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/static/js/main.129fbaef.js",
-    "index.html": "/index.html",
-    "main.129fbaef.js.map": "/static/js/main.129fbaef.js.map"
+    "main.css": "/afjheavywater/static/css/main.574039d5.css",
+    "main.js": "/afjheavywater/static/js/main.b2f7b2ce.js",
+    "index.html": "/afjheavywater/index.html",
+    "main.574039d5.css.map": "/afjheavywater/static/css/main.574039d5.css.map",
+    "main.b2f7b2ce.js.map": "/afjheavywater/static/js/main.b2f7b2ce.js.map"
   },
   "entrypoints": [
-    "static/js/main.129fbaef.js"
+    "static/css/main.574039d5.css",
+    "static/js/main.b2f7b2ce.js"
   ]
 }
