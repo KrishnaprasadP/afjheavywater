@@ -58,7 +58,7 @@ function App() {
         </tr>
         {tableRowElements}
       </table>
-      <h3>For more details, pls contact 9952738846 (AFJ Pharma Sourcing Pvt Ltd..</h3>
+      <h3>For more details, pls contact 9952738846 (AFJ Pharma Sourcing Pvt Ltd.)</h3>
     </div>
   );
 }
