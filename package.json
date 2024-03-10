@@ -2,7 +2,7 @@
   "name": "afjheavywater",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://krishnaprasadp.github.io/afjheavywater",
+  "homepage": "https://www.afjheavywater.com",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -20,7 +20,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "echo www.afjheavywater.com > ./build/CNAME && gh-pages -d build"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
